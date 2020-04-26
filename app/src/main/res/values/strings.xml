@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cpn Calculator</string>
+    <string name="hint_mat">Enter Matric Percentage</string>
+    <string name="hint_int">Enter Intermidiate Percentage</string>
+    <string name="hint_test">Enter Test Score</string>
+    <string name="btn_test">Calculate</string>
+    <string name="Result">Result</string>
+    <string name="developer">Developed By Ali Raza</string>
+    <string name="btn_reset">Reset</string>
+</resources>
